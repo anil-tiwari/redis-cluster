@@ -24,7 +24,7 @@
     }
   ],
   "dependencies": {
-    "async": "~0.2.10",
+    "async": "~0.9.2",
     "redis": "~0.10.0",
     "hashring": "~1.0.3"
   },
